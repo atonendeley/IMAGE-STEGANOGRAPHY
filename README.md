@@ -1,7 +1,4 @@
 # IMAGE-STEGANOGRAPHY
-IMAGE STEGANOGRAPHY
 
-Steganography is the study of hiding information within objects in a way that  deceives  the viewer into thinking there is no information hidden.
-Keeping information concealed so that only the intended recipient can see it.
-
-
+Steganography: Concealing a message or datawithin anotherfile in a way that it cannot be easily detected.
+Image Steganography: Concealing datawithin an image file without affecting its appearance.
